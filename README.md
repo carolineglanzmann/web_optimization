@@ -1,7 +1,7 @@
 ## Website Performance Optimization portfolio project
 
 This is a website performance optimization project worked on 
-a given sample site by the Udacity Team.
+a sample site given by the Udacity Team.
 
 ### Getting started
 
